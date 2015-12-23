@@ -1,0 +1,9 @@
+{
+  "track": "devgrok:METEOR",
+  "version": "1.2.1_1",
+  "recommended": false,
+  "patchFrom": [
+    "METEOR@1.2.1"
+  ],
+  "description": "constraint-solver performance patch"
+}
